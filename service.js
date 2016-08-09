@@ -27,7 +27,7 @@ const options = {
 
 const Service = Seneca(options.seneca)
 
-if (envs.TFK_SENECA_QUEUE_ISOLATED) {
+if (envs.TFK_SENECA_MAIL_ISOLATED) {
   Service.listen(options.isolated)
 } else {
   Service.use(Mesh, options.mesh)
