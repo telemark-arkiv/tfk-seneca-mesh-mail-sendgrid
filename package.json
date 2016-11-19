@@ -39,6 +39,6 @@
     "seneca-balance-client": "0.6.0",
     "seneca-mail": "0.2.2",
     "seneca-mesh": "0.9.0",
-    "seneca-sendgrid-mail": "1.0.14"
+    "seneca-sendgrid-mail": "1.0.15"
   }
 }
