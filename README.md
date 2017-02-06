@@ -1,4 +1,6 @@
 # tfk-seneca-mesh-mail-sendgrid
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/telemark/tfk-seneca-mesh-mail-sendgrid.svg)](https://greenkeeper.io/)
 Microservice for sending mail via SendGrid
 
 ## Messages handled
