@@ -1,6 +1,6 @@
 {
   "name": "tfk-seneca-mesh-mail-sendgrid",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Microservice for sending emails with SendGrid",
   "license": "MIT",
   "author": {
@@ -29,10 +29,10 @@
     "url": "git://github.com/telemark/tfk-seneca-mesh-mail-sendgrid"
   },
   "devDependencies": {
-    "tap": "10.3.2"
+    "tap": "10.3.2",
     "standard": "10.0.1",
     "coveralls": "2.12.0",
-    "nsp": "2.6.3",
+    "nsp": "2.6.3"
   },
   "dependencies": {
     "seneca": "3.3.0",
